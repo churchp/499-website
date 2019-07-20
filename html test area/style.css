@@ -1235,19 +1235,6 @@ img {
 	text-transform: uppercase;
 	width: 500px;
 }
-#body .header .contact table{
-	color: #A3A3A3;
-	display: block;
-	font-family: audiowide-regular-webfont;
-	font-size: 23px;
-	font-weight: normal;
-	line-height: 23px;
-	margin: 0 auto;
-	padding: 8px 0 62px;
-	text-align: center;
-	text-transform: uppercase;
-	width: 500px;
-}
 #body .header div form {
 	display: block;
 	margin: 0 auto;
