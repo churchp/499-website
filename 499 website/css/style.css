@@ -672,7 +672,7 @@ img {
 	display: block;
 	float: right;
 	font-family: Arial;
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: normal;
 	line-height: 24px;
 	margin: 0 auto;
@@ -1259,7 +1259,6 @@ img {
 	margin: 0 auto;
 	padding: 8px 20px;
 	text-align: left;
-	text-transform: uppercase;
 	width: 600px;
 }
 #body .header div form {
