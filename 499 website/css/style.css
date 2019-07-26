@@ -1246,7 +1246,20 @@ img {
 	padding: 8px 0 62px;
 	text-align: center;
 	text-transform: uppercase;
-	width: 500px;
+	width: 200px;
+}
+#body .header .contact table p{
+	color: #A3A3A3;
+	display: block;
+	font-family: audiowide-regular-webfont;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 23px;
+	margin: 0 auto;
+	padding: 8px 0 62px;
+	text-align: left;
+	text-transform: uppercase;
+	width: 200px;
 }
 #body .header div form {
 	display: block;
