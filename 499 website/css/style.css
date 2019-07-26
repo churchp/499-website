@@ -683,7 +683,7 @@ img {
 #body.about .footer div p a {
 	color: #ffffff;
 	font-family: Arial;
-	font-size: 18px;
+	font-size: 14px;
 	font-weight: normal;
 	line-height: 24px;
 	margin: 0 auto;
@@ -1252,7 +1252,7 @@ img {
 #body .header .contact table p{
 	color: #A3A3A3;
 	display: block;
-	font-family: audiowide-regular-webfont;
+	font-family: Arial;
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 23px;
@@ -1260,7 +1260,7 @@ img {
 	padding: 8px 20px;
 	text-align: left;
 	text-transform: uppercase;
-	width: 200px;
+	width: 600px;
 }
 #body .header div form {
 	display: block;
