@@ -1247,11 +1247,7 @@ img {
 	text-align: center;
 	text-transform: uppercase;
 	width: 100%;
-	border-spacing: 20px;
-}
-#body .header .contact table td{
-	margin: 20px;
-	//padding: 20px;
+	border-spacing: 30px;
 }
 #body .header .contact table p{
 	color: #A3A3A3;
