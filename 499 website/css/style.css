@@ -783,9 +783,6 @@ img {
 	width: 380px;
 }
 #body .header div ul li a img {
-	cursor: pointer;
-	filter: alpha(opacity=100);/* Needed for IE8 and old versions */
-	opacity: 1.0;
 	display: block;
 	margin: 0;
 	padding: 0;
