@@ -360,6 +360,18 @@ img {
 	overflow: hidden;
 	padding: 32px 0 16px;
 }
+#body.home .footer div h1 {
+	color: #FFFFFF;
+	font-family: audiowide-regular-webfont;
+	font-size: 32px;
+	font-weight: normal;
+	line-height: 32px;
+	margin: 0 0 44px;
+	padding: 0;
+	text-align: center;
+	text-transform: uppercase;
+	width: auto;
+}
 #body.home .footer div ul {
 	display: block;
 	list-style: none;
